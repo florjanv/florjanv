@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @florjanv
 - 👀 I’m interested in Geo-Python
-- 🌱 I’m currently learning Python, Django, Pandas
-- 💞️ I’m looking to collaborate on Pandas or Django projects
+- 🌱 I’m currently practicing Python, Django, fastAPI
 - 📫 Search my name in linkedin Florjan Vladi
 
 <!---
