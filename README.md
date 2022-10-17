@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @florjanv
 - 👀 I’m interested in Geo-Python
 - 🌱 I’m currently practicing Python, Django, fastAPI
-- 📫 Search my name in linkedin Florjan Vladi
+- 📫 I have built a very ugly portfoglio in FasAPI and Javascript florjanv.github.io
 
 <!---
 florjanv/florjanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
