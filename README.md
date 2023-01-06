@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @florjanv
 - 👀 I’m interested in Geo-Python
 - 🌱 I’m currently practicing Python, Django, fastAPI
-- 📫 Check my ugly portfoglio built with FasAPI and Javascript [florjanv.github.io](https://florjanv.github.io/)
+- 📫 Check my ugly portfoglio built with bulma.io [florjanv.github.io](https://florjanv.github.io/)
 
 <!---
 florjanv/florjanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
